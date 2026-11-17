@@ -9,7 +9,7 @@ I do my best thinking early in the morning before anyone else is up. That's usua
 ---
 
 ## 🗺️ Roam Planner
-**[roamplanner.net](https://roamplanner.net)** · live
+**<a href="https://roamplanner.net" target="_blank" rel="noopener noreferrer">roamplanner.net</a>** · live
 
 `Vue 3` · `Pinia` · `Supabase` · `Leaflet` · `Netlify Functions` · `Vitest` · `Storybook`
 
@@ -31,7 +31,7 @@ Built AI-assisted with Claude Code, which taught me a lot about steering an AI t
 ---
 
 ## 🎮 Retro Gamer Lofi
-**[retrogamerlofi.com](https://retrogamerlofi.com)**
+**<a href="https://retrogamerlofi.com" target="_blank" rel="noopener noreferrer">retrogamerlofi.com</a>**
 
 `Nuxt 3` · `TypeScript` · `Nitro` · `Netlify Blobs` · `Vitest`
 
@@ -48,7 +48,7 @@ Engineering bits I'm proud of:
 ---
 
 ## 📟 Real Pokédex
-**[Live demo](https://aprettydecentpokedex.netlify.app/)** · [Source](https://github.com/jmart790/real-pokedex)
+**<a href="https://aprettydecentpokedex.netlify.app/" target="_blank" rel="noopener noreferrer">Live demo</a>** · <a href="https://github.com/jmart790/real-pokedex" target="_blank" rel="noopener noreferrer">Source</a>
 
 `Vue 3` · `TypeScript` · `Pinia` · `PokeAPI` · `Sass`
 
@@ -59,7 +59,7 @@ This is the project where I really fell for CSS. I lost a lot of sleep on it. It
 ---
 
 ## 🚧 joshcodesthings2024
-**[Source](https://github.com/jmart790/joshcodesthings2024)** · desktop-only proof of concept
+**<a href="https://github.com/jmart790/joshcodesthings2024" target="_blank" rel="noopener noreferrer">Source</a>** · desktop-only proof of concept
 
 `Vue 3` · `TypeScript` · `GSAP`
 
